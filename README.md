@@ -4,7 +4,7 @@
 ShortestPathFinder is a C program developed for the COMP2421 course. It employs Dijkstra’s and Breadth-First Search (BFS) algorithms to determine the shortest paths between two user-specified cities. The program reads city data, constructs a graph, and calculates the shortest route, detailing the full path and total distance using both algorithms.
 
 ## Repository Contents
-- `DS4.c`: The C source file containing the implementations of Dijkstra’s and BFS algorithms along with all necessary functions to find the shortest path.
+- `ShortestPathFinder.c`: The C source file containing the implementations of Dijkstra’s and BFS algorithms along with all necessary functions to find the shortest path.
 - `Project 4 Spring 2023.pdf`: The project brief, detailing the requirements and expectations for the program.
 
 ## Features
